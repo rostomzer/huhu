@@ -1,0 +1,18 @@
+{
+  "sourceUrl": "https://huhu.to..",
+  "title": "HUHU.TO",
+  "description": "A platform for streaming and accessing media content.",
+  "mainContent": "Welcome to HUHU.TO, your go-to source for streaming and discovering a vast library of media content. Explore various channels, search for specific titles, and customize your settings for a tailored experience.",
+  "headings": [
+    "Welcome to HUHU.TO",
+    "Explore Our Library",
+    "Stream Your Favorite Channels"
+  ],
+  "links": [
+    "https://huhu.to/#/",
+    "https://huhu.to/#/library",
+    "https://huhu.to/#/channels",
+    "https://huhu.to/#/search",
+    "https://huhu.to/#/settings"
+  ]
+}
